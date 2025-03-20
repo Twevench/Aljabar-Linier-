@@ -27,8 +27,8 @@ print(cth_array)
 print("\n")
 
 # Membuat matriks menggunakan Array
-matriks_array = ([[-2, 1, -1], 
-                  [-3,-1, 2],
-                  [-2, 1, 2]])
+matriks_array = np.array ([[-2, 1, -1], 
+                           [-3,-1, 2],
+                           [-2, 1, 2]])
 print("ini adalah matriks array")
 print(matriks_array)
